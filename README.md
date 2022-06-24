@@ -1,1 +1,1 @@
-This is a set of script that defines permission to various components
+This will be describing the actions of all scripts used in this project
